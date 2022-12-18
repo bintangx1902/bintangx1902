@@ -16,8 +16,8 @@
 </div>
 
 - 👋 Hi, I’m Raden Bintang Ronggo Pratomo
-- 👀 I’m interested in Django and Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Django and Machine Learning
+- 🌱 I’m currently learning Tensorflow, Keras and others.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/bintang-pratomo-943646206/">linkedln</a>
 - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I spend more than 6 hours per days for trains myself to improve my writing code
